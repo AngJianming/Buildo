@@ -1,7 +1,7 @@
 # pyspur.dev Clone
 Just a project clone of pyspur front-end
 
-## Setup Instructions
+## Setup Instructions - (Git Bash)
 
 1. Install all the packages of the project:
 ```bash
