@@ -1,5 +1,5 @@
 # pyspur.dev Clone
-Just a project clone of pyspur front end
+Just a project clone of pyspur front-end
 
 ## Setup Instructions
 
@@ -28,3 +28,5 @@ npm i -D tailwindcss
 npm run dev
 ```
 
+---
+Now you can start using and running the website for yourself.
