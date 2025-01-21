@@ -8,22 +8,22 @@ Just a project clone of pyspur front-end
 npm i
 ```
 
-1. Change directory to the project folder:
+2. Change directory to the project folder:
 ```bash
 cd Pyspur-clone
 ```
 
-1. Install necessary react dependencies:
+3. Install necessary react dependencies:
 ```bash
 npm i --save react-router-dom
 ```
 
-1. Install Tailwind CSS and its dependencies:
+4. Install Tailwind CSS and its dependencies:
 ```bash
 npm i -D tailwindcss
 ```
 
-1. Start the development server:
+5. Start the development server:
 ```bash
 npm run dev
 ```
