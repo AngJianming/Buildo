@@ -1,5 +1,5 @@
-# pyspur.dev clone
-Just a clone of pyspur as a test for a job application
+# pyspur.dev Clone
+Just a project clone of pyspur front end
 
 ## Setup Instructions
 
