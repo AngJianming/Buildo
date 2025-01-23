@@ -11,7 +11,7 @@ npm i
 
 2. Change directory to the project folder:
 ```bash
-cd Pyspur-clone
+cd pyspur-clone
 ```
 
 3. Install necessary react dependencies:
