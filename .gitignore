@@ -12,8 +12,10 @@ dist
 dist-ssr
 *.local
 
-#
-node_modules/*
+# Dependency directories
+jspm_packages/
+node_modules/
+
 
 # Editor directories and files
 .vscode/*
