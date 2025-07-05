@@ -1,4 +1,4 @@
-# pyspur.dev Clone
+# Buildo
 Just a project clone of pyspur front-end
 
 
