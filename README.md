@@ -1,5 +1,5 @@
 # Buildo
-Just a project clone of pyspur front-end
+Just a project
 
 
 ## Setup Instructions - (Git Bash)
